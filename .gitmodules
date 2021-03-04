@@ -1,0 +1,9 @@
+[submodule "GoBarber-mobile"]
+	path = GoBarber-mobile
+	url = git@github.com:Luciano-Ferreira/GoBarber-mobile.git
+[submodule "backGoBarberv2"]
+	path = backGoBarberv2
+	url = git@github.com:Luciano-Ferreira/backGoBarberv2.git
+[submodule "GoBarber-web"]
+	path = GoBarber-web
+	url = git@github.com:Luciano-Ferreira/GoBarber-web.git
