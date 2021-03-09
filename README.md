@@ -1,5 +1,3 @@
-test
-
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Proffy/blob/main/LICENSE) for more information.
 
