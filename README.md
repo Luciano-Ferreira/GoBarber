@@ -1,5 +1,17 @@
+<div align="center">
+  <img src="./github/logo.svg" alt="GoBarber">
+</div>
+
+
+---
+<div align="center" >
+  <img src="./github/readmegobarbermobile.gif" alt="demo-mobile" height="425" width="75%">
+  <img src="./github/readmegobarberweb.gif" alt="demo-web" height="425">
+</div>
+
+# Proffy Web
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Proffy/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/GoBarber/blob/main/LICENSE) for more information.
 
 ---
 
