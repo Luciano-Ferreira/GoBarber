@@ -3,7 +3,6 @@
 </div>
 
 
----
 <div align="center" >
   <img src="./github/readmegobarbermobile.gif" alt="demo-mobile" height="425" width="75%">
   <img src="./github/readmegobarberweb.gif" alt="demo-web" height="425">
