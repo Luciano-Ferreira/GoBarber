@@ -9,6 +9,13 @@
   
 </div>
 
+## technologies
+---
+- [NodeJS](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/GoBarber/blob/main/LICENSE) for more information.
 
