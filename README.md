@@ -9,7 +9,7 @@
   
 </div>
 
-## technologies
+## Technologies :rocket:
 ---
 - [NodeJS](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
